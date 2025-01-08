@@ -1,0 +1,14 @@
+C:\Users\rqm\OneDrive\Documentos\programaciones\PooSegunda\compocicionyagregacionbasico\bin\Debug\net9.0\compocicionyagregacionbasico.exe
+C:\Users\rqm\OneDrive\Documentos\programaciones\PooSegunda\compocicionyagregacionbasico\bin\Debug\net9.0\compocicionyagregacionbasico.deps.json
+C:\Users\rqm\OneDrive\Documentos\programaciones\PooSegunda\compocicionyagregacionbasico\bin\Debug\net9.0\compocicionyagregacionbasico.runtimeconfig.json
+C:\Users\rqm\OneDrive\Documentos\programaciones\PooSegunda\compocicionyagregacionbasico\bin\Debug\net9.0\compocicionyagregacionbasico.dll
+C:\Users\rqm\OneDrive\Documentos\programaciones\PooSegunda\compocicionyagregacionbasico\bin\Debug\net9.0\compocicionyagregacionbasico.pdb
+C:\Users\rqm\OneDrive\Documentos\programaciones\PooSegunda\compocicionyagregacionbasico\obj\Debug\net9.0\compocicionyagregacionbasico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rqm\OneDrive\Documentos\programaciones\PooSegunda\compocicionyagregacionbasico\obj\Debug\net9.0\compocicionyagregacionbasico.AssemblyInfoInputs.cache
+C:\Users\rqm\OneDrive\Documentos\programaciones\PooSegunda\compocicionyagregacionbasico\obj\Debug\net9.0\compocicionyagregacionbasico.AssemblyInfo.cs
+C:\Users\rqm\OneDrive\Documentos\programaciones\PooSegunda\compocicionyagregacionbasico\obj\Debug\net9.0\compocicionyagregacionbasico.csproj.CoreCompileInputs.cache
+C:\Users\rqm\OneDrive\Documentos\programaciones\PooSegunda\compocicionyagregacionbasico\obj\Debug\net9.0\compocicionyagregacionbasico.dll
+C:\Users\rqm\OneDrive\Documentos\programaciones\PooSegunda\compocicionyagregacionbasico\obj\Debug\net9.0\refint\compocicionyagregacionbasico.dll
+C:\Users\rqm\OneDrive\Documentos\programaciones\PooSegunda\compocicionyagregacionbasico\obj\Debug\net9.0\compocicionyagregacionbasico.pdb
+C:\Users\rqm\OneDrive\Documentos\programaciones\PooSegunda\compocicionyagregacionbasico\obj\Debug\net9.0\compocicionyagregacionbasico.genruntimeconfig.cache
+C:\Users\rqm\OneDrive\Documentos\programaciones\PooSegunda\compocicionyagregacionbasico\obj\Debug\net9.0\ref\compocicionyagregacionbasico.dll
