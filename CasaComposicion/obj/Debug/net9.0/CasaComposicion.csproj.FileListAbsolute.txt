@@ -1,0 +1,15 @@
+C:\Users\rqm\OneDrive\Documentos\programaciones\PooSegunda\CasaComposicion\bin\Debug\net9.0\CasaComposicion.exe
+C:\Users\rqm\OneDrive\Documentos\programaciones\PooSegunda\CasaComposicion\bin\Debug\net9.0\CasaComposicion.deps.json
+C:\Users\rqm\OneDrive\Documentos\programaciones\PooSegunda\CasaComposicion\bin\Debug\net9.0\CasaComposicion.runtimeconfig.json
+C:\Users\rqm\OneDrive\Documentos\programaciones\PooSegunda\CasaComposicion\bin\Debug\net9.0\CasaComposicion.dll
+C:\Users\rqm\OneDrive\Documentos\programaciones\PooSegunda\CasaComposicion\bin\Debug\net9.0\CasaComposicion.pdb
+C:\Users\rqm\OneDrive\Documentos\programaciones\PooSegunda\CasaComposicion\obj\Debug\net9.0\CasaComposicion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rqm\OneDrive\Documentos\programaciones\PooSegunda\CasaComposicion\obj\Debug\net9.0\CasaComposicion.AssemblyInfoInputs.cache
+C:\Users\rqm\OneDrive\Documentos\programaciones\PooSegunda\CasaComposicion\obj\Debug\net9.0\CasaComposicion.AssemblyInfo.cs
+C:\Users\rqm\OneDrive\Documentos\programaciones\PooSegunda\CasaComposicion\obj\Debug\net9.0\CasaComposicion.csproj.CoreCompileInputs.cache
+C:\Users\rqm\OneDrive\Documentos\programaciones\PooSegunda\CasaComposicion\obj\Debug\net9.0\CasaComposicion.sourcelink.json
+C:\Users\rqm\OneDrive\Documentos\programaciones\PooSegunda\CasaComposicion\obj\Debug\net9.0\CasaComposicion.dll
+C:\Users\rqm\OneDrive\Documentos\programaciones\PooSegunda\CasaComposicion\obj\Debug\net9.0\refint\CasaComposicion.dll
+C:\Users\rqm\OneDrive\Documentos\programaciones\PooSegunda\CasaComposicion\obj\Debug\net9.0\CasaComposicion.pdb
+C:\Users\rqm\OneDrive\Documentos\programaciones\PooSegunda\CasaComposicion\obj\Debug\net9.0\CasaComposicion.genruntimeconfig.cache
+C:\Users\rqm\OneDrive\Documentos\programaciones\PooSegunda\CasaComposicion\obj\Debug\net9.0\ref\CasaComposicion.dll
