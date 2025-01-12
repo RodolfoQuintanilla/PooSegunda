@@ -1,0 +1,15 @@
+C:\Users\rqm\OneDrive\Documentos\programaciones\PooSegunda\ConfiguracionGlobal\obj\Debug\net9.0\ConfiguracionGlobal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rqm\OneDrive\Documentos\programaciones\PooSegunda\ConfiguracionGlobal\obj\Debug\net9.0\ConfiguracionGlobal.AssemblyInfoInputs.cache
+C:\Users\rqm\OneDrive\Documentos\programaciones\PooSegunda\ConfiguracionGlobal\obj\Debug\net9.0\ConfiguracionGlobal.AssemblyInfo.cs
+C:\Users\rqm\OneDrive\Documentos\programaciones\PooSegunda\ConfiguracionGlobal\obj\Debug\net9.0\ConfiguracionGlobal.csproj.CoreCompileInputs.cache
+C:\Users\rqm\OneDrive\Documentos\programaciones\PooSegunda\ConfiguracionGlobal\obj\Debug\net9.0\ConfiguracionGlobal.sourcelink.json
+C:\Users\rqm\OneDrive\Documentos\programaciones\PooSegunda\ConfiguracionGlobal\bin\Debug\net9.0\ConfiguracionGlobal.exe
+C:\Users\rqm\OneDrive\Documentos\programaciones\PooSegunda\ConfiguracionGlobal\bin\Debug\net9.0\ConfiguracionGlobal.deps.json
+C:\Users\rqm\OneDrive\Documentos\programaciones\PooSegunda\ConfiguracionGlobal\bin\Debug\net9.0\ConfiguracionGlobal.runtimeconfig.json
+C:\Users\rqm\OneDrive\Documentos\programaciones\PooSegunda\ConfiguracionGlobal\bin\Debug\net9.0\ConfiguracionGlobal.dll
+C:\Users\rqm\OneDrive\Documentos\programaciones\PooSegunda\ConfiguracionGlobal\bin\Debug\net9.0\ConfiguracionGlobal.pdb
+C:\Users\rqm\OneDrive\Documentos\programaciones\PooSegunda\ConfiguracionGlobal\obj\Debug\net9.0\ConfiguracionGlobal.dll
+C:\Users\rqm\OneDrive\Documentos\programaciones\PooSegunda\ConfiguracionGlobal\obj\Debug\net9.0\refint\ConfiguracionGlobal.dll
+C:\Users\rqm\OneDrive\Documentos\programaciones\PooSegunda\ConfiguracionGlobal\obj\Debug\net9.0\ConfiguracionGlobal.pdb
+C:\Users\rqm\OneDrive\Documentos\programaciones\PooSegunda\ConfiguracionGlobal\obj\Debug\net9.0\ConfiguracionGlobal.genruntimeconfig.cache
+C:\Users\rqm\OneDrive\Documentos\programaciones\PooSegunda\ConfiguracionGlobal\obj\Debug\net9.0\ref\ConfiguracionGlobal.dll
