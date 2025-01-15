@@ -1,0 +1,15 @@
+C:\Users\rqm\OneDrive\Documentos\programaciones\PooSegunda\ClasesAbstractas\bin\Debug\net9.0\ClasesAbstractas.exe
+C:\Users\rqm\OneDrive\Documentos\programaciones\PooSegunda\ClasesAbstractas\bin\Debug\net9.0\ClasesAbstractas.deps.json
+C:\Users\rqm\OneDrive\Documentos\programaciones\PooSegunda\ClasesAbstractas\bin\Debug\net9.0\ClasesAbstractas.runtimeconfig.json
+C:\Users\rqm\OneDrive\Documentos\programaciones\PooSegunda\ClasesAbstractas\bin\Debug\net9.0\ClasesAbstractas.dll
+C:\Users\rqm\OneDrive\Documentos\programaciones\PooSegunda\ClasesAbstractas\bin\Debug\net9.0\ClasesAbstractas.pdb
+C:\Users\rqm\OneDrive\Documentos\programaciones\PooSegunda\ClasesAbstractas\obj\Debug\net9.0\ClasesAbstractas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rqm\OneDrive\Documentos\programaciones\PooSegunda\ClasesAbstractas\obj\Debug\net9.0\ClasesAbstractas.AssemblyInfoInputs.cache
+C:\Users\rqm\OneDrive\Documentos\programaciones\PooSegunda\ClasesAbstractas\obj\Debug\net9.0\ClasesAbstractas.AssemblyInfo.cs
+C:\Users\rqm\OneDrive\Documentos\programaciones\PooSegunda\ClasesAbstractas\obj\Debug\net9.0\ClasesAbstractas.csproj.CoreCompileInputs.cache
+C:\Users\rqm\OneDrive\Documentos\programaciones\PooSegunda\ClasesAbstractas\obj\Debug\net9.0\ClasesAbstractas.sourcelink.json
+C:\Users\rqm\OneDrive\Documentos\programaciones\PooSegunda\ClasesAbstractas\obj\Debug\net9.0\ClasesAbstractas.dll
+C:\Users\rqm\OneDrive\Documentos\programaciones\PooSegunda\ClasesAbstractas\obj\Debug\net9.0\refint\ClasesAbstractas.dll
+C:\Users\rqm\OneDrive\Documentos\programaciones\PooSegunda\ClasesAbstractas\obj\Debug\net9.0\ClasesAbstractas.pdb
+C:\Users\rqm\OneDrive\Documentos\programaciones\PooSegunda\ClasesAbstractas\obj\Debug\net9.0\ClasesAbstractas.genruntimeconfig.cache
+C:\Users\rqm\OneDrive\Documentos\programaciones\PooSegunda\ClasesAbstractas\obj\Debug\net9.0\ref\ClasesAbstractas.dll
