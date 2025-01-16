@@ -1,0 +1,15 @@
+C:\Users\rqm\OneDrive\Documentos\programaciones\PooSegunda\Impresora\bin\Debug\net9.0\Impresora.exe
+C:\Users\rqm\OneDrive\Documentos\programaciones\PooSegunda\Impresora\bin\Debug\net9.0\Impresora.deps.json
+C:\Users\rqm\OneDrive\Documentos\programaciones\PooSegunda\Impresora\bin\Debug\net9.0\Impresora.runtimeconfig.json
+C:\Users\rqm\OneDrive\Documentos\programaciones\PooSegunda\Impresora\bin\Debug\net9.0\Impresora.dll
+C:\Users\rqm\OneDrive\Documentos\programaciones\PooSegunda\Impresora\bin\Debug\net9.0\Impresora.pdb
+C:\Users\rqm\OneDrive\Documentos\programaciones\PooSegunda\Impresora\obj\Debug\net9.0\Impresora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rqm\OneDrive\Documentos\programaciones\PooSegunda\Impresora\obj\Debug\net9.0\Impresora.AssemblyInfoInputs.cache
+C:\Users\rqm\OneDrive\Documentos\programaciones\PooSegunda\Impresora\obj\Debug\net9.0\Impresora.AssemblyInfo.cs
+C:\Users\rqm\OneDrive\Documentos\programaciones\PooSegunda\Impresora\obj\Debug\net9.0\Impresora.csproj.CoreCompileInputs.cache
+C:\Users\rqm\OneDrive\Documentos\programaciones\PooSegunda\Impresora\obj\Debug\net9.0\Impresora.sourcelink.json
+C:\Users\rqm\OneDrive\Documentos\programaciones\PooSegunda\Impresora\obj\Debug\net9.0\Impresora.dll
+C:\Users\rqm\OneDrive\Documentos\programaciones\PooSegunda\Impresora\obj\Debug\net9.0\refint\Impresora.dll
+C:\Users\rqm\OneDrive\Documentos\programaciones\PooSegunda\Impresora\obj\Debug\net9.0\Impresora.pdb
+C:\Users\rqm\OneDrive\Documentos\programaciones\PooSegunda\Impresora\obj\Debug\net9.0\Impresora.genruntimeconfig.cache
+C:\Users\rqm\OneDrive\Documentos\programaciones\PooSegunda\Impresora\obj\Debug\net9.0\ref\Impresora.dll
