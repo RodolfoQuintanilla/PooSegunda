@@ -1,0 +1,15 @@
+C:\Users\rqm\OneDrive\Documentos\programaciones\PooSegunda\ClasesEstaticas\bin\Debug\net9.0\ClasesEstaticas.exe
+C:\Users\rqm\OneDrive\Documentos\programaciones\PooSegunda\ClasesEstaticas\bin\Debug\net9.0\ClasesEstaticas.deps.json
+C:\Users\rqm\OneDrive\Documentos\programaciones\PooSegunda\ClasesEstaticas\bin\Debug\net9.0\ClasesEstaticas.runtimeconfig.json
+C:\Users\rqm\OneDrive\Documentos\programaciones\PooSegunda\ClasesEstaticas\bin\Debug\net9.0\ClasesEstaticas.dll
+C:\Users\rqm\OneDrive\Documentos\programaciones\PooSegunda\ClasesEstaticas\bin\Debug\net9.0\ClasesEstaticas.pdb
+C:\Users\rqm\OneDrive\Documentos\programaciones\PooSegunda\ClasesEstaticas\obj\Debug\net9.0\ClasesEstaticas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rqm\OneDrive\Documentos\programaciones\PooSegunda\ClasesEstaticas\obj\Debug\net9.0\ClasesEstaticas.AssemblyInfoInputs.cache
+C:\Users\rqm\OneDrive\Documentos\programaciones\PooSegunda\ClasesEstaticas\obj\Debug\net9.0\ClasesEstaticas.AssemblyInfo.cs
+C:\Users\rqm\OneDrive\Documentos\programaciones\PooSegunda\ClasesEstaticas\obj\Debug\net9.0\ClasesEstaticas.csproj.CoreCompileInputs.cache
+C:\Users\rqm\OneDrive\Documentos\programaciones\PooSegunda\ClasesEstaticas\obj\Debug\net9.0\ClasesEstaticas.sourcelink.json
+C:\Users\rqm\OneDrive\Documentos\programaciones\PooSegunda\ClasesEstaticas\obj\Debug\net9.0\ClasesEstaticas.dll
+C:\Users\rqm\OneDrive\Documentos\programaciones\PooSegunda\ClasesEstaticas\obj\Debug\net9.0\refint\ClasesEstaticas.dll
+C:\Users\rqm\OneDrive\Documentos\programaciones\PooSegunda\ClasesEstaticas\obj\Debug\net9.0\ClasesEstaticas.pdb
+C:\Users\rqm\OneDrive\Documentos\programaciones\PooSegunda\ClasesEstaticas\obj\Debug\net9.0\ClasesEstaticas.genruntimeconfig.cache
+C:\Users\rqm\OneDrive\Documentos\programaciones\PooSegunda\ClasesEstaticas\obj\Debug\net9.0\ref\ClasesEstaticas.dll
