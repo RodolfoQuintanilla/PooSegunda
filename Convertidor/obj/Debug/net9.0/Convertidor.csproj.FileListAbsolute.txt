@@ -1,0 +1,15 @@
+C:\Users\rqm\OneDrive\Documentos\programaciones\PooSegunda\Convertidor\bin\Debug\net9.0\Convertidor.exe
+C:\Users\rqm\OneDrive\Documentos\programaciones\PooSegunda\Convertidor\bin\Debug\net9.0\Convertidor.deps.json
+C:\Users\rqm\OneDrive\Documentos\programaciones\PooSegunda\Convertidor\bin\Debug\net9.0\Convertidor.runtimeconfig.json
+C:\Users\rqm\OneDrive\Documentos\programaciones\PooSegunda\Convertidor\bin\Debug\net9.0\Convertidor.dll
+C:\Users\rqm\OneDrive\Documentos\programaciones\PooSegunda\Convertidor\bin\Debug\net9.0\Convertidor.pdb
+C:\Users\rqm\OneDrive\Documentos\programaciones\PooSegunda\Convertidor\obj\Debug\net9.0\Convertidor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rqm\OneDrive\Documentos\programaciones\PooSegunda\Convertidor\obj\Debug\net9.0\Convertidor.AssemblyInfoInputs.cache
+C:\Users\rqm\OneDrive\Documentos\programaciones\PooSegunda\Convertidor\obj\Debug\net9.0\Convertidor.AssemblyInfo.cs
+C:\Users\rqm\OneDrive\Documentos\programaciones\PooSegunda\Convertidor\obj\Debug\net9.0\Convertidor.csproj.CoreCompileInputs.cache
+C:\Users\rqm\OneDrive\Documentos\programaciones\PooSegunda\Convertidor\obj\Debug\net9.0\Convertidor.sourcelink.json
+C:\Users\rqm\OneDrive\Documentos\programaciones\PooSegunda\Convertidor\obj\Debug\net9.0\Convertidor.dll
+C:\Users\rqm\OneDrive\Documentos\programaciones\PooSegunda\Convertidor\obj\Debug\net9.0\refint\Convertidor.dll
+C:\Users\rqm\OneDrive\Documentos\programaciones\PooSegunda\Convertidor\obj\Debug\net9.0\Convertidor.pdb
+C:\Users\rqm\OneDrive\Documentos\programaciones\PooSegunda\Convertidor\obj\Debug\net9.0\Convertidor.genruntimeconfig.cache
+C:\Users\rqm\OneDrive\Documentos\programaciones\PooSegunda\Convertidor\obj\Debug\net9.0\ref\Convertidor.dll
