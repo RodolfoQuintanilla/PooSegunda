@@ -1,0 +1,15 @@
+C:\Users\rqm\OneDrive\Documentos\programaciones\PooSegunda\Fraccion\obj\Debug\net9.0\Fraccion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rqm\OneDrive\Documentos\programaciones\PooSegunda\Fraccion\obj\Debug\net9.0\Fraccion.AssemblyInfoInputs.cache
+C:\Users\rqm\OneDrive\Documentos\programaciones\PooSegunda\Fraccion\obj\Debug\net9.0\Fraccion.AssemblyInfo.cs
+C:\Users\rqm\OneDrive\Documentos\programaciones\PooSegunda\Fraccion\obj\Debug\net9.0\Fraccion.csproj.CoreCompileInputs.cache
+C:\Users\rqm\OneDrive\Documentos\programaciones\PooSegunda\Fraccion\obj\Debug\net9.0\Fraccion.sourcelink.json
+C:\Users\rqm\OneDrive\Documentos\programaciones\PooSegunda\Fraccion\bin\Debug\net9.0\Fraccion.exe
+C:\Users\rqm\OneDrive\Documentos\programaciones\PooSegunda\Fraccion\bin\Debug\net9.0\Fraccion.deps.json
+C:\Users\rqm\OneDrive\Documentos\programaciones\PooSegunda\Fraccion\bin\Debug\net9.0\Fraccion.runtimeconfig.json
+C:\Users\rqm\OneDrive\Documentos\programaciones\PooSegunda\Fraccion\bin\Debug\net9.0\Fraccion.dll
+C:\Users\rqm\OneDrive\Documentos\programaciones\PooSegunda\Fraccion\bin\Debug\net9.0\Fraccion.pdb
+C:\Users\rqm\OneDrive\Documentos\programaciones\PooSegunda\Fraccion\obj\Debug\net9.0\Fraccion.dll
+C:\Users\rqm\OneDrive\Documentos\programaciones\PooSegunda\Fraccion\obj\Debug\net9.0\refint\Fraccion.dll
+C:\Users\rqm\OneDrive\Documentos\programaciones\PooSegunda\Fraccion\obj\Debug\net9.0\Fraccion.pdb
+C:\Users\rqm\OneDrive\Documentos\programaciones\PooSegunda\Fraccion\obj\Debug\net9.0\Fraccion.genruntimeconfig.cache
+C:\Users\rqm\OneDrive\Documentos\programaciones\PooSegunda\Fraccion\obj\Debug\net9.0\ref\Fraccion.dll
