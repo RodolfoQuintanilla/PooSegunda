@@ -1,0 +1,15 @@
+C:\Users\rqm\OneDrive\Documentos\programaciones\PooSegunda\Fracciones3\bin\Debug\net9.0\Fracciones3.exe
+C:\Users\rqm\OneDrive\Documentos\programaciones\PooSegunda\Fracciones3\bin\Debug\net9.0\Fracciones3.deps.json
+C:\Users\rqm\OneDrive\Documentos\programaciones\PooSegunda\Fracciones3\bin\Debug\net9.0\Fracciones3.runtimeconfig.json
+C:\Users\rqm\OneDrive\Documentos\programaciones\PooSegunda\Fracciones3\bin\Debug\net9.0\Fracciones3.dll
+C:\Users\rqm\OneDrive\Documentos\programaciones\PooSegunda\Fracciones3\bin\Debug\net9.0\Fracciones3.pdb
+C:\Users\rqm\OneDrive\Documentos\programaciones\PooSegunda\Fracciones3\obj\Debug\net9.0\Fracciones3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rqm\OneDrive\Documentos\programaciones\PooSegunda\Fracciones3\obj\Debug\net9.0\Fracciones3.AssemblyInfoInputs.cache
+C:\Users\rqm\OneDrive\Documentos\programaciones\PooSegunda\Fracciones3\obj\Debug\net9.0\Fracciones3.AssemblyInfo.cs
+C:\Users\rqm\OneDrive\Documentos\programaciones\PooSegunda\Fracciones3\obj\Debug\net9.0\Fracciones3.csproj.CoreCompileInputs.cache
+C:\Users\rqm\OneDrive\Documentos\programaciones\PooSegunda\Fracciones3\obj\Debug\net9.0\Fracciones3.sourcelink.json
+C:\Users\rqm\OneDrive\Documentos\programaciones\PooSegunda\Fracciones3\obj\Debug\net9.0\Fracciones3.dll
+C:\Users\rqm\OneDrive\Documentos\programaciones\PooSegunda\Fracciones3\obj\Debug\net9.0\refint\Fracciones3.dll
+C:\Users\rqm\OneDrive\Documentos\programaciones\PooSegunda\Fracciones3\obj\Debug\net9.0\Fracciones3.pdb
+C:\Users\rqm\OneDrive\Documentos\programaciones\PooSegunda\Fracciones3\obj\Debug\net9.0\Fracciones3.genruntimeconfig.cache
+C:\Users\rqm\OneDrive\Documentos\programaciones\PooSegunda\Fracciones3\obj\Debug\net9.0\ref\Fracciones3.dll
