@@ -1,0 +1,15 @@
+C:\Users\rqm\OneDrive\Documentos\programaciones\PooSegunda\EjercicioCompleto\bin\Debug\net9.0\EjercicioCompleto.exe
+C:\Users\rqm\OneDrive\Documentos\programaciones\PooSegunda\EjercicioCompleto\bin\Debug\net9.0\EjercicioCompleto.deps.json
+C:\Users\rqm\OneDrive\Documentos\programaciones\PooSegunda\EjercicioCompleto\bin\Debug\net9.0\EjercicioCompleto.runtimeconfig.json
+C:\Users\rqm\OneDrive\Documentos\programaciones\PooSegunda\EjercicioCompleto\bin\Debug\net9.0\EjercicioCompleto.dll
+C:\Users\rqm\OneDrive\Documentos\programaciones\PooSegunda\EjercicioCompleto\bin\Debug\net9.0\EjercicioCompleto.pdb
+C:\Users\rqm\OneDrive\Documentos\programaciones\PooSegunda\EjercicioCompleto\obj\Debug\net9.0\EjercicioCompleto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rqm\OneDrive\Documentos\programaciones\PooSegunda\EjercicioCompleto\obj\Debug\net9.0\EjercicioCompleto.AssemblyInfoInputs.cache
+C:\Users\rqm\OneDrive\Documentos\programaciones\PooSegunda\EjercicioCompleto\obj\Debug\net9.0\EjercicioCompleto.AssemblyInfo.cs
+C:\Users\rqm\OneDrive\Documentos\programaciones\PooSegunda\EjercicioCompleto\obj\Debug\net9.0\EjercicioCompleto.csproj.CoreCompileInputs.cache
+C:\Users\rqm\OneDrive\Documentos\programaciones\PooSegunda\EjercicioCompleto\obj\Debug\net9.0\EjercicioCompleto.sourcelink.json
+C:\Users\rqm\OneDrive\Documentos\programaciones\PooSegunda\EjercicioCompleto\obj\Debug\net9.0\EjercicioCompleto.dll
+C:\Users\rqm\OneDrive\Documentos\programaciones\PooSegunda\EjercicioCompleto\obj\Debug\net9.0\refint\EjercicioCompleto.dll
+C:\Users\rqm\OneDrive\Documentos\programaciones\PooSegunda\EjercicioCompleto\obj\Debug\net9.0\EjercicioCompleto.pdb
+C:\Users\rqm\OneDrive\Documentos\programaciones\PooSegunda\EjercicioCompleto\obj\Debug\net9.0\EjercicioCompleto.genruntimeconfig.cache
+C:\Users\rqm\OneDrive\Documentos\programaciones\PooSegunda\EjercicioCompleto\obj\Debug\net9.0\ref\EjercicioCompleto.dll
